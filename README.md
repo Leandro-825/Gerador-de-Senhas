@@ -1,2 +1,2 @@
 # Gerador-de-Senhas
-isso mesmo
+segurança
